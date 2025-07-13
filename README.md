@@ -1,6 +1,5 @@
 # RAG-memory-ChatBot
 
-```markdown
 # 🤖 RAG Memory ChatBot 📚
 
 [![Python](https://img.shields.io/badge/Python-3.11+-blue.svg)](https://python.org)
