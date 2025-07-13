@@ -494,7 +494,7 @@ copies or substantial portions of the Software.
 
 ## 📞 Support & Contact
 
-- 📧 **Email**: abuzar01440@example.com
+- 📧 **Email**: abuzarbhutta@gmail.com
 
 ### 📊 Project Stats
 
